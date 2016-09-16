@@ -2,7 +2,7 @@ import pymongo
 
 
 class Database(object):
-    URI = "mongodb://192.168.126.128:27017"
+    URI = "mongodb://192.168.30.128:27017"
     DATABASE = None
 
     @staticmethod
